@@ -9,7 +9,7 @@ const result = dotenv.config()
 
 const app = express()
 
-//Aqui uso el modulo consign para manejar mis rutas de configuracion y middleware  del servidor ordenanamente
+//Aqui uso el modulo consign para manejar mis rutas de configuracion y middleware del servidor ordenanamente
 consign({
     cwd: __dirname
 })
