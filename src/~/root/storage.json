@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "82d9aa69d088356a220299e105018946d08b53c6f18dbfb7d64c5b71948e4824",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/mmacias/Documentos/Node-Apps",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/mmacias/Documentos/Node-Apps/Demo-MyAdmiCars"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/mmacias/Documentos/Node-Apps/Demo-MyAdmiCars",
+                "external": "file:///home/mmacias/Documentos/Node-Apps/Demo-MyAdmiCars",
+                "path": "/home/mmacias/Documentos/Node-Apps/Demo-MyAdmiCars",
+                "scheme": "file"
+            },
+            "backupPath": "/home/mmacias/Documentos/Node-Apps/Demo-MyAdmiCars/src/~/root/Backups/4caccd9ef5ceb6aa86663ae2b410c582",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 30,
+                "width": 1024,
+                "height": 738
+            }
+        }
+    }
+}

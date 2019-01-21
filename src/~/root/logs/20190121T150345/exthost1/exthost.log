@@ -1,0 +1,60 @@
+[2019-01-21 15:03:48.108] [exthost] [info] extension host started
+[2019-01-21 15:03:48.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.120] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-21 15:03:48.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.123] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-21 15:03:48.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.142] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-21 15:03:48.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.228] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-21 15:03:48.234] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.234] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-21 15:03:48.241] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.241] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-01-21 15:03:48.259] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.259] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-01-21 15:03:48.308] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.308] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2019-01-21 15:03:48.460] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.460] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-01-21 15:03:48.461] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.461] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-01-21 15:03:48.463] [exthost] [info] ExtensionService#_doActivateExtension joelday.docthis {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.463] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/joelday.docthis-0.7.1/out/src/extension
+[2019-01-21 15:03:48.866] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:48.866] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-21 15:03:49.140] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:49.140] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/robertohuertasm.vscode-icons-8.0.0/out/src/
+[2019-01-21 15:03:49.200] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.wallaby-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:03:49.200] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.107/index
+[2019-01-21 15:03:49.200] [exthost] [info] eager extensions activated
+[2019-01-21 15:04:08.149] [exthost] [info] extension host started
+[2019-01-21 15:04:08.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.160] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-21 15:04:08.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.162] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-21 15:04:08.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.178] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-21 15:04:08.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.254] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-21 15:04:08.258] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.258] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-01-21 15:04:08.265] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.265] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-01-21 15:04:08.281] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.281] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-01-21 15:04:08.321] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/esbenp.prettier-vscode-1.7.3/out/src/extension
+[2019-01-21 15:04:08.448] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.448] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-01-21 15:04:08.449] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.449] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-01-21 15:04:08.450] [exthost] [info] ExtensionService#_doActivateExtension joelday.docthis {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.450] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/joelday.docthis-0.7.1/out/src/extension
+[2019-01-21 15:04:08.775] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:08.775] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/ritwickdey.liveserver-5.3.1/out/src/extension
+[2019-01-21 15:04:09.006] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:09.006] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/robertohuertasm.vscode-icons-8.0.0/out/src/
+[2019-01-21 15:04:09.059] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.wallaby-vscode {"startup":true,"activationEvent":"*"}
+[2019-01-21 15:04:09.059] [exthost] [info] ExtensionService#loadCommonJSModule /home/mmacias/.vscode/extensions/wallabyjs.wallaby-vscode-1.0.107/index
+[2019-01-21 15:04:09.059] [exthost] [info] eager extensions activated
